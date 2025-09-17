@@ -1,0 +1,7 @@
+CREATE DATABASE Client;
+
+CREATE TABLE user(
+
+);
+
+CREATE TABLE 
